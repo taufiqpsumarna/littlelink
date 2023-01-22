@@ -84,6 +84,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* 16 Personalities */
+.button.button-16pers {
+  color: #ffffff;
+  background-color: #4298B4;
+}
+.button.button-16pers:hover,
+.button.button-16pers:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
@@ -269,6 +279,16 @@ button:hover,
 }
 .button.button-github:hover,
 .button.button-github:focus {
+  filter: brightness(90%);
+}
+
+/* Google Developer */
+.button.button-gdev {
+  color: #ffffff;
+  background-color: #F1F3F4;
+}
+.button.button-gdev:hover,
+.button.button-gdev:focus {
   filter: brightness(90%);
 }
 
