@@ -87,7 +87,7 @@ button:hover,
 /* 16 Personalities */
 .button.button-16pers {
   color: #ffffff;
-  background-color: #4298B4;
+  background-color: #474747;
 }
 .button.button-16pers:hover,
 .button.button-16pers:focus {
@@ -284,7 +284,7 @@ button:hover,
 
 /* Google Developer */
 .button.button-gdev {
-  color: #ffffff;
+  color: #000000;
   background-color: #F1F3F4;
 }
 .button.button-gdev:hover,
