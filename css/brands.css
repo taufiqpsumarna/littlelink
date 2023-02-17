@@ -204,6 +204,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Dicoding Academy */
+.button.button-dicoding {
+  color: #000000;
+  background-color: #f5f5f5;
+}
+.button.button-dicoding:hover,
+.button.button-dicoding:focus {
+  filter: brightness(90%);
+}
+
 /* Discord */
 .button.button-discord {
   color: #ffffff;
