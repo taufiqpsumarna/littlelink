@@ -293,12 +293,12 @@ button:hover,
 }
 
 /* Google Developer */
-.button.button-gdev {
+.button.button-course {
   color: #333;
   background-color: #e1e1e1;
 }
-.button.button-gdev:hover,
-.button.button-gdev:focus {
+.button.button-course:hover,
+.button.button-course:focus {
   filter: brightness(90%);
 }
 
